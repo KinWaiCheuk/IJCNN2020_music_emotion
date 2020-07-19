@@ -1,0 +1,5 @@
+/Z1-1000/*.mp3
+/Z1-1000wav/*.wav
+/features/*.csv
+.ipynb_checkpoints/
+SMILExtract
