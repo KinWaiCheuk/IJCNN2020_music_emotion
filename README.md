@@ -27,4 +27,4 @@ To use your trained model to predict music emotion, please refer to `Demonstrati
 
 # Demonstration
 In each of the region, we picked one song, and the predicted song can be found in `/Demo/*`
-![alt test](https://raw.githubusercontent.com/KinWaiCheuk/IJCNN2020_music_emotion/Demo/master/Figure1.png)
+![](https://raw.githubusercontent.com/KinWaiCheuk/IJCNN2020_music_emotion/master/Demo/Figure1.png)
