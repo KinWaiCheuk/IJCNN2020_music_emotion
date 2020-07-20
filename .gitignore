@@ -1,5 +1,9 @@
 /Z1-1000/*.mp3
 /Z1-1000wav/*.wav
 /features/*.csv
+/DEAM/*
+/TNN_training/*
+/__pycache__/
+!/DEAM/Data_Processing.ipynb
 .ipynb_checkpoints/
 SMILExtract
