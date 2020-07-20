@@ -28,3 +28,13 @@ To use your trained model to predict music emotion, please refer to `Demonstrati
 # Demonstration
 In each of the region, we picked one song, and the predicted song can be found in `/Demo/*`
 ![](https://raw.githubusercontent.com/KinWaiCheuk/IJCNN2020_music_emotion/master/Demo/Figure1.png)
+
+[Low](https://raw.githubusercontent.com/KinWaiCheuk/IJCNN2020_music_emotion/master/Demo/Low.mp3)
+
+[UpperLow](https://raw.githubusercontent.com/KinWaiCheuk/IJCNN2020_music_emotion/master/Demo/UpperLow.mp3)
+
+[Middle](https://raw.githubusercontent.com/KinWaiCheuk/IJCNN2020_music_emotion/master/Demo/Middle.mp3)
+
+[LowerHigh](https://raw.githubusercontent.com/KinWaiCheuk/IJCNN2020_music_emotion/master/Demo/LowerHigh.mp3)
+
+[High](https://raw.githubusercontent.com/KinWaiCheuk/IJCNN2020_music_emotion/master/Demo/High.mp3)
